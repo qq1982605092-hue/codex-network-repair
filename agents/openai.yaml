@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex Network Repair"
+  short_description: "Fix Codex proxy, transport, and VSIX download issues"
+  default_prompt: "Use $codex-network-repair to diagnose and fix Codex CLI or VS Code transport, proxy, or VSIX download errors."
+
+policy:
+  allow_implicit_invocation: true
